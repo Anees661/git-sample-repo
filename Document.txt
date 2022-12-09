@@ -1,7 +1,7 @@
-git status
+git status ->prints the status of the Git Respository
 git init
 git config---global user.name "Let's Kode it"
-git config---global user.email "Let'skodeit@gmail.com"
+git config---global user.email "Letskodeit@gmail.com"
 git config---global user.name "Let's Kode it"
 git config---global user.email "Let'skodeit@gmail.com"
 git add
